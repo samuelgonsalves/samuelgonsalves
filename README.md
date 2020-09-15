@@ -1,16 +1,23 @@
 ### Hi there 👋
 
-<!--
-**samuelgonsalves/samuelgonsalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Samuel, a software engineer working at Inmar Intelligence.
 
-Here are some ideas to get you started:
+I love building new things and solving problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 **I’m currently working on**: 
+
+- Building an [Alexa skill](https://github.com/samuelgonsalves/AlexaShoppingListFunc) to manage my Trello Grocery board.
+- Solving Leetcode problems.
+
+🌱 **I’m currently learning about**: 
+
+- Machine Learning from Andrew Ng's Coursera course.
+
+👯 **I’m looking to collaborate on**: open source non profit projects.
+
+📫 **How to reach me**: sgonsal@ncsu.edu
+
+⚡ **Fun facts**:
+
+- I've created a cool multiplayer Connect-4 game.
+- I'm a big fan of Chelsea F.C. 💙
