@@ -6,12 +6,11 @@ I love building new things and solving problems.
 
 🔭 **I’m currently working on**: 
 
-- Building an [Alexa skill](https://github.com/samuelgonsalves/AlexaShoppingListFunc) to manage my Trello Grocery board.
-- Solving Leetcode problems.
+- Improving my AWS skills
 
 🌱 **I’m currently learning about**: 
 
-- Machine Learning from Andrew Ng's Coursera course.
+- Core AWS services
 
 👯 **I’m looking to collaborate on**: open source non profit projects.
 
