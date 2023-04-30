@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Samuel, a software engineer working at Inmar Intelligence.
+I'm Samuel, a software engineer working at Amazon.
 
 I love building new things and solving problems.
 
