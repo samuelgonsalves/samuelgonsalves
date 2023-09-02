@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Samuel, a software engineer working at Amazon.
+I'm Samuel, a software engineer working at HubSpot.
 
 I love building new things and solving problems.
 
@@ -14,7 +14,7 @@ I love building new things and solving problems.
 
 👯 **I’m looking to collaborate on**: open source non profit projects.
 
-📫 **How to reach me**: sgonsal@ncsu.edu
+📫 **How to reach me**: samueldgonsalves@gmail.com
 
 ⚡ **Fun facts**:
 
